@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<BlackList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Remove_Campus_Area">
+	<strings>
+		<!-- Remove Campus Area Pattern -->
+		<LocalizedStringKey identifier="AREA_PATTERN" key="TradeSchool" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="LiberalArts" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="University" />
+	</strings>
+</BlackList>
