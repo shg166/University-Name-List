@@ -11,7 +11,7 @@ namespace JP_CampusNameList
 
 		public string Name
 		{
-			get { return "JP University Name List (CNL) v1.0"; }
+			get { return "JP University Name List (CNL) v1.0.1"; }
 		}
 
 		public string Description
