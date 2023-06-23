@@ -3,13 +3,13 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP University Namelist (DLC Cumpus)">
 	<strings>
-		<-- Trade School Pattern-->
+		<!-- Trade School Pattern -->
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">北見工業大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">室蘭工業大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">東京工業大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">名古屋工業大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">九州工業大学</LocalizedString>
-		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">長岡技術科学大学（</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">長岡技術科学大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">豊橋技術科学大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">京都工芸繊維大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">東京農工大学</LocalizedString>
@@ -54,11 +54,11 @@
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">ものつくり大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">桐蔭横浜大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">中部大学</LocalizedString>
-		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">北海商科大学 </LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">北海商科大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">流通経済大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">横浜商科大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">跡見学園女子大学</LocalizedString>
-		<-- Liberal Arts Pattern-->
+		<!-- Liberal Arts Pattern -->
 		<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">東京芸術大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">京都工芸繊維大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">愛知県立芸術大学</LocalizedString>
@@ -106,7 +106,7 @@
 		<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">一橋大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">東洋大学</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">法政大学</LocalizedString>
-		<-- University Pattern-->
+		<!-- University Pattern -->
 		<LocalizedString identifier="AREA_PATTERN" key="University">防衛医科大学校</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="University">国立看護大学校</LocalizedString>
 		<LocalizedString identifier="AREA_PATTERN" key="University">東京医科歯科大学</LocalizedString>
